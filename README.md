@@ -19,9 +19,10 @@ Use with caution: Injecting DLLs into processes can have unpredictable effects a
 
 ## Prerequisites
 
-This tool is designed for Windows operating systems.
-Exercise caution and responsibility when using this tool.
-License
+- This tool is designed for Windows operating systems.
+- Exercise caution and responsibility when using this tool.
+  
+## License
 This project is licensed under the MIT License.
 
 ## Contribution
