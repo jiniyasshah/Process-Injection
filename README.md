@@ -6,7 +6,7 @@ ProcessInject is a simple command-line tool designed for injecting dynamic-link 
 
 ## Usage
 
-...bash
+
 processinject <dll_path> <process_name>
 
 ## Example
