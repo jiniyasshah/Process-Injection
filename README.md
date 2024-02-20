@@ -11,7 +11,7 @@ processinject <dll_path> <process_name>
 
 ## Example
 
-processinject C:\Users\..\Desktop\Local-Dll-Injection\input.dll notepad.exe
+processinject C:\Users\\..\Desktop\Local-Dll-Injection\input.dll notepad.exe
 
 ## Caution
 
